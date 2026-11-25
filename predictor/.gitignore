@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Old project environment
+predictor_old/
+
+# Local Django database
+db.sqlite3
+
+# Generated ML model and outputs
+ml_models/
+outputs/
+
+# Local environment variables
+.env
+
+# VS Code local settings
+.vscode/
